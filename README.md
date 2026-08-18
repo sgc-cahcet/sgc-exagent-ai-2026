@@ -2,6 +2,8 @@
 
 Official Registration & Management System for the **EXAGENT AI 2026 Workshop**, organized by the **Student Guidance Cell (SGC), CAHCET**.
 
+LIVE LINK : https://sgc-exagent-ai-2026.vercel.app/
+
 ## 🚀 Features
 
 - Modern Landing Page
